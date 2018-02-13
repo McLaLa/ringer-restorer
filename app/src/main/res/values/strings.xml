@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShutUp!!</string>
+    <string name="silence">Silence</string>
+    <string name="turn_ringer_on_in">Turn ringer on in</string>
+    <string name="ringer_turn_on_in">Ringer turn on in</string>
+    <string name="ringer_silent_for">Ringer silent for</string>
+    <string name="select_to_turn_it_on_now">Select to turn it on now</string>
+    <string name="minutes">minutes</string>
+    <string name="ringer_mode_normal">Ringer mode is set to normal</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="about">2017 McLaLa</string>
+</resources>

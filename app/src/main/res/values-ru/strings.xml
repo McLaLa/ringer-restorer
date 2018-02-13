@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShutUp!!</string>
+    <string name="silence">Выключить звук</string>
+    <string name="turn_ringer_on_in">Вернуть режим через</string>
+    <string name="ringer_turn_on_in">Звонок включится через</string>
+    <string name="ringer_silent_for">Звонок выключен на</string>
+    <string name="select_to_turn_it_on_now">Нажми чтоб включить немедленно</string>
+    <string name="minutes">минуты</string>
+    <string name="ringer_mode_normal">Режим звонка восстановлен</string>
+    <string name="version">Версия 1.0.0</string>
+    <string name="about">2017 McLaLa</string>
+</resources>

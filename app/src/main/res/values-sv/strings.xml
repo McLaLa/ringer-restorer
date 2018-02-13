@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ShutUp!!</string>
+    <string name="silence">Tysta ned</string>
+    <string name="turn_ringer_on_in">Sätt på ringsignalen om</string>
+    <string name="ringer_turn_on_in">Ringsignalen slås på om</string>
+    <string name="ringer_silent_for">Ringsignal avstängd i</string>
+    <string name="select_to_turn_it_on_now">Välj för att sätta på den nu</string>
+    <string name="minutes">minuter</string>
+    <string name="ringer_mode_normal">Ringsignal är inställd som standard igen</string>
+    <string name="version">Version 1.0.0</string>
+    <string name="about">2017 McLaLa</string>
+</resources>
